@@ -1,0 +1,40 @@
+.navbar {
+  padding: 22px;
+  margin-bottom: 42px;
+
+
+.bmw-search 
+{
+  height:45px !important;
+  width:300px !important;
+  margin-left:30px !important;
+}
+
+.navbar-brand{
+  margin-right:25px;
+  font-size:32px;
+  letter-spacing: 1px;
+  font-weight:500;
+  color:#5F9EA0;
+}
+.nav-item {
+  font-size:16px;
+
+}
+ul li a {
+  color:#5F9EA0;
+}
+
+
+.btn-bwm-search {
+  border-color: #5F9EA0;
+  color:#5F9EA0;
+  margin-left:5px;
+  &:hover, &:focus, &:active {
+    background-color:transparent !important;
+    border-color:#5F9EA0!important;
+    color:#5F9EA0 !important;
+    box-shadow:none;
+  }
+}
+}
