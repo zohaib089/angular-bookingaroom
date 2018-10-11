@@ -1,0 +1,33 @@
+a {
+  &:hover,&:hover {
+    text-decoration: none;
+  }
+}
+
+
+  .bwm-card {
+    border:none;
+    .card-block {
+      padding-top: 9px;
+
+      .card-subtitle {
+        margin:0;
+        font-weight:500;
+        font-size: 12px;
+        text-transform:uppercase;
+        color:#16861a;
+      }
+      .card-title {
+        font-size: 18px;
+        margin:3px 0;
+        color: grey;
+      }
+
+      .card-text {
+        font-size:14px;
+        font-weight:300;
+        color: #7e7e7e;
+        margin-bottom:0;
+      }
+    }
+  }
