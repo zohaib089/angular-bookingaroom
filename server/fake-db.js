@@ -10,8 +10,8 @@ class FakeDb {
       city:'Turin',
       shared:true,
       street:'via garibaldi 30',
-      image:'http://via.placeholder.com/350x250',
-      bedroom:3,
+      image:'https://picsum.photos/350/250/?random',
+      bedrooms:3,
       description:"Feel the luxury taste of your life",
       dailyRate:35
 
@@ -20,11 +20,11 @@ class FakeDb {
       id:'2',
       title:"Cosy and relaxing Apartment",
       city:'Turin',
-        shared:false,
+      shared:false,
       category:"Condo",
       street:'via brescia 30',
-      image:'http://via.placeholder.com/350x250',
-      bedroom:3,
+      image:'https://picsum.photos/350/250/?random',
+      bedrooms:3,
       description:"Stay with style in this apartment",
       dailyRate:35
 
@@ -33,11 +33,11 @@ class FakeDb {
       id:'3',
       title:"Luxury Apartment 2",
       category:"Room",
-        shared:true,
+      shared:true,
       city:'Turin',
       street:'via genoa 30',
-      image:'http://via.placeholder.com/350x250',
-      bedroom:3,
+      image:'https://picsum.photos/350/250/?random',
+      bedrooms:3,
       description:"Feel the luxury",
       dailyRate:35
 
@@ -45,12 +45,12 @@ class FakeDb {
     {
       id:'4',
       title:"Luxury Apartment 3",
-        shared:false,
+      shared:false,
       category:"House",
       city:'Turin',
       street:'via genoa 30',
-      image:'http://via.placeholder.com/350x250',
-      bedroom:3,
+      image:'https://picsum.photos/350/250/?random',
+      bedrooms:3,
       description:"Feel the luxury",
       dailyRate:35
 

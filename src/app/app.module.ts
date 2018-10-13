@@ -6,6 +6,7 @@ import { HeaderComponent } from './common/header/header.component';
 import { RentalComponent } from './rental/rental.component';
 import {RentalModule} from './rental/rental.module'
 
+
 const routes: Routes = [
   {path: '', redirectTo:'/rentals', pathMatch:'full'}
 ]
