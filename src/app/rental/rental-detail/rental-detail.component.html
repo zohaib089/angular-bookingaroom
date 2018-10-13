@@ -6,7 +6,7 @@
       </div>
       <div class="col-md-6">
         <!-- map will be inserted here  -->
-        <img src="{{rental.image}}" alt="">
+        <app-map [location]="rental.city + ' , ' + rental.street"></app-map>
       </div>
     </div>
   </div>
